@@ -3470,6 +3470,7 @@ footer h4::after {
  * responsive:
  * footer components
  * ------------------------------------------------------------------- */
+
 @media only screen and (max-width:1200px) {
    .s-footer__main > .row {
       max-width: 800px;
@@ -4213,6 +4214,12 @@ footer h4::after {
  * ----------------------------------------------- */
 #cForm {
    margin-top: 3.6rem;
+}
+
+@media only screen and (max-width: 600px)
+    .row{
+        padding-left : 0; !important
+        padding-right: 0; !important
 }
 
 /*# sourceMappingURL=main.css.map */

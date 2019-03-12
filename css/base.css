@@ -607,8 +607,8 @@ textarea {
 @media only screen and (max-width: 600px) {
    .row {
       width: auto;
-      padding-left: 25px;
-      padding-right: 25px;
+      padding-left: 0;
+      padding-right: 0;
    }
 
    .row .row {
