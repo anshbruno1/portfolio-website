@@ -2581,9 +2581,11 @@ html.cl-preload .featured {
 }
 
 html.cl-loaded .featured {
+/*
    animation-duration: 2s;
    -webkit-animation-name: fadeIn;
    animation-name: fadeIn;
+*/
 }
 
 html.no-csstransitions .featured {
@@ -3615,7 +3617,7 @@ footer h4::after {
 
 .s-content__main img {
    max-width: 960px;
-   margin: 3rem 0 3rem -6rem;
+   margin: 0rem 0 0rem -6rem;
 }
 
 
