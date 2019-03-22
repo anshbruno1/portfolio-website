@@ -2577,7 +2577,7 @@ body.search-is-visible {
 /* animate .featured
  * ------------------------------------------------------------------- */
 html.cl-preload .featured {
-   opacity: 0;
+   opacity: 1;
 }
 
 html.cl-loaded .featured {
